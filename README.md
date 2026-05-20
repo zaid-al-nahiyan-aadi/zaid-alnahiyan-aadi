@@ -1,7 +1,7 @@
 
 
-# Hello World!, I'm Watashii, a Noob Web Developer 👋🏼:
-🛜 currently working on my own Discord Bots And Webpage <br>👨🏼‍🎓 studying media based computer science at Unknown Platforms <br>👨🏼‍💻 working as a web developer since 2024 <br>
+# Hello World!, I'm Zaid , a Noob Web Developer 👋🏼:
+🛜 currently working on my own Discord Bots And Webpage <br>👨🏼‍🎓 studying media based computer science at Unknown Platforms <br>👨🏼‍💻 working as a web developer since Unknown ++ <br>
 
 
 # 💻 Tech Stack:
